@@ -276,12 +276,12 @@ address.
             {% endcomment %}
             <p id="requirements">
             {% if online == "false" %}
-               Participants will have access to Windows computers in Seton 331. If you would like to use your own laptop, ensure that you have administrator privledges.
+               Participants will have access to Windows computers in Seton 331. If you would like to use your own laptop, ensure that you have administrator privledges
             {% else %}
                 Participants must have access to a computer with a
                 Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
             {% endif %}
-            They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+            as you will need to install OpenRefine (listed <a href="#setup">below</a>).
             </p>
         </dd>  
     </div>
