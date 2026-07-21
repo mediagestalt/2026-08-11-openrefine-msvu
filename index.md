@@ -265,6 +265,7 @@ address.
             {% endif %}    
         </dd>
     </div>
+
     <div class="row">
         <dt class="col-sm-2 col-md-2 py-2 px-3 bg-body-light text-body-secondary fw-bold">Requirements</dt>
         <dd class="col py-2 px-3 mx-0 mb-0">
@@ -275,8 +276,7 @@ address.
             {% endcomment %}
             <p id="requirements">
             {% if online == "false" %}
-                Participants must bring a laptop with a
-                Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
+               Participants will have access to Windows computers in Seton 331. If you would like to use your own laptop, ensure that you have administrator privledges.
             {% else %}
                 Participants must have access to a computer with a
                 Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
